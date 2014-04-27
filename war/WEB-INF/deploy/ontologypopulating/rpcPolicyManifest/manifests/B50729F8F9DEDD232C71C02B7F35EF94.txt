@@ -1,0 +1,2 @@
+serviceClass: umbc.ebiquity.kang.ontologypopulating.client.GreetingService
+path: 2191A986C3A9A4AEF63AF24FB768A05F.gwt.rpc

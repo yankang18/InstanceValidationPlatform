@@ -1,0 +1,455 @@
+{"Industries served include:":["R","hasIndustryFocus","","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#hasIndustryFocus","0.9230281171821993"]}
+{"These industries include:":["R","hasIndustryFocus","","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#hasIndustryFocus","0.8809136107968464"]}
+{"Our industries include:":["R","hasIndustryFocus","","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#hasIndustryFocus","0.8809136107968464"]}
+{"Materials":["R","hasMaterial","","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#hasMaterial","0.7800007477636717"]}
+{"These materials include:":["R","hasMaterial","","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#hasMaterial","0.7354931125941355"]}
+{"Our industry":["R","hasIndustryFocus","","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#hasIndustryFocus","0.7164370938558697"]}
+{"Materials include:":["R","hasMaterial","","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#hasMaterial","0.7004706161669682"]}
+{"Our capabilities include:":["R","hasCastability","","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#hasCastability","0.69754252310962"]}
+{"These capabilities include:":["R","hasCastability","","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#hasCastability","0.69754252310962"]}
+{"Capabilities include:":["R","hasCastability","","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#hasCastability","0.69754252310962"]}
+{"Stamping":["C","Stamping","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Stamping","1.0"]}
+{"Shim Washers":["C","ManufacturingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#ManufacturingService","1.0"]}
+{"Laminated Peelable Shims":["C","ManufacturingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#ManufacturingService","1.0"]}
+{"Shims:":["C","ManufacturingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#ManufacturingService","1.0"]}
+{"Gaskets:":["C","ManufacturingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#ManufacturingService","1.0"]}
+{"Rubber Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Plastic":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Stainless Steel Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Fish Paper":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Carbon Steel Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"L3 Communications":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"JCP Registration:":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Phenolics Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Boring":["C","Boring","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Boring","1.0"]}
+{"(Buna N)":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Vegetable Fiber":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"ITAR Registration:":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Engineered tile":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Plastics":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"5365":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Mounts":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Frames":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"PTFE (Teflon® - Dupont)":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Quality":["C","Service","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Service","1.0"]}
+{"Industries we serve include:":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Side Panels":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Cork and Rubber":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"HVAC":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Practishim® Color Coded Plastic":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"332439":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Martin Baker":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Painting":["C","Painting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Painting","1.0"]}
+{"Engineered stone":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"339991":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Keys":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Tile and stone":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Gasket Paper":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"5330":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Transportation":["C","Transportation","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Transportation","1.0"]}
+{"332312":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Cabinets":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Medical":["C","Medical","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Medical","1.0"]}
+{"332510":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"ISO Registration:":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Ceramic tile":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"332116":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"331491":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"332322":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"316\/316L Stainless Steel Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"High Temperature Gaskets":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Racks":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Slitter Shims":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"332710":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Composites":["C","Composite","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Composite","1.0"]}
+{"Compressors":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Non-asbestos":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"332722":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Nitrile":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"2090":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Nickel alloys":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Industries AccuTrex serves include:":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Cellulose Fiber":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Armor and Supplemental Armor":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"M25179":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Alloys":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"S.P.C":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"BAE":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"304 Stainless Steel":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","1.0"]}
+{"Composite":["C","Composite","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Composite","1.0"]}
+{"Neoprene":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Spacers":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Urethane":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Foam":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Materials and thickness:":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"DATELOK":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Structural Components":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Solid Metal Gaskets":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Red Rubber":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Mining Equipment":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Arbor Shims":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Steel Fabrications":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"peel shims":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"410 Stainless Steel":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","1.0"]}
+{"Lockheed Martin":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Construction":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Products":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Links":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Molds":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Shafts":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Viton":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Capabilities":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Polyimide (Kapton®)":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Nylon":["C","Nylon","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Nylon","1.0"]}
+{"Shim Stock":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Spring steel":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Practi-shim® Color Coded Plastic Shim Stock":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Quality Vendor Commendations and Approved Vendors":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Manufacturing to specification AMS":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"316 Stainless Steel":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","1.0"]}
+{"Inconel":["C","Inconel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Inconel","1.0"]}
+{"Cloth Inserted Rubber":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Die Cut Gaskets":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Graphite":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Forming":["C","Forming","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Forming","1.0"]}
+{"Heat treating and plating":["C","HeatTreating","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#HeatTreating","1.0"]}
+{"Natural stone":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Flexible Graphite":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"2510":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Mining":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"9535":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Boeing":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"2040":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Practishim® Color Coded Plastic shims":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"2540":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Grinding":["C","Grinding","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Grinding","1.0"]}
+{"Wedges":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Flanges":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"9515":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Wood":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Cage Code:":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"waterjet cutting services":["C","WaterjetCuttingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterjetCuttingService","1.0"]}
+{"Turning":["C","Turning","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Turning","1.0"]}
+{"veteran":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Packaging":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Weapon System Components":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Rubber":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"9001:2008":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"ITT Corporation":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Inconel® Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"NAICS":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Bath Iron":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Wear Strips":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Leading":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"EPDM":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"General Dynamic Land Systems":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"AccuPeel® Laminated Shim Stock per AMS-DTL-22499":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Welding":["C","Welding","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Welding","1.0"]}
+{"334417":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Titanium Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"J.I.T.":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Color Coded Shims":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Commodity Focus and Industry Specifications":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"AccuPeel® Laminated Shims":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Material Handling":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"2590":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Washers-Special":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Locomotive":["C","Locomotive","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Locomotive","1.0"]}
+{"DoD":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Teflon":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Compressed Non-Asbestos":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Closed Cell Sponge":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Stamping processes include:":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Tool steels":["C","ToolSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#ToolSteel","1.0"]}
+{"Brass Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Agriculture":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Jigs":["C","Jig","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Jig","1.0"]}
+{"Plastic Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Tapered Roller Bearing":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Power and utility":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"326130":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Exotic Alloy Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"304 Stainless Steel Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Cork":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Phenolic":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Ceramic":["C","Ceramic","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Ceramic","1.0"]}
+{"Neoprene Rubber":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Construction Equipment":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Granite":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Fasteners":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"defense":["C","Aluminum","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Aluminum","1.0"]}
+{"Sawing":["C","Sawing","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Sawing","1.0"]}
+{"AccuPeel® Laminated Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"FSC":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Bending":["C","Bending","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Bending","1.0"]}
+{"Industries Served":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Solid Shims":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Bar coding":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Compression Packing":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"\u2013 Our":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","1.0"]}
+{"Electronics":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Marble":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"331221":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"302 Stainless Steel":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","1.0"]}
+{"Some of our industries include:":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Pins":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Guards":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"336992":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Caster Shims":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Spring Steel Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Monel":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Electric Motors":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Covers":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Titanium":["C","Titanium","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Titanium","1.0"]}
+{"High Pressure Gaskets":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Signage":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Oil and Gas Drilling Equipment":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Chassis":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"331528":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Nylon Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"DUNS Numbers:":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"F.A.S.T":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Clamps":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Bearing Shims":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Carbon fiber":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"E.D.I.":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Power and Utilities":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Military and Defense Equipment":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Aluminum Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Stamping and Types of Washers":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Finishing":["C","Finishing","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Finishing","1.0"]}
+{"Automotive":["C","Automotive","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Automotive","1.0"]}
+{"Steel Mill Equipment":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Rings":["C","Ring","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Ring","1.0"]}
+{"water jet cutting":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","1.0"]}
+{"Medical Components":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Nitrile Rubber":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Copper Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Peelable Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Volvo Construction":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Natural tile":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Babbited Shims":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Hastelloy":["C","Hastelloy","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Hastelloy","1.0"]}
+{"Aluminum Fabrications":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Northrup Grumman":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Clips":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Specialty Washers":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Laminated Polyimide":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Glass":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"Drilling":["C","Drilling","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Drilling","1.0"]}
+{"Marine":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Aerospace":["C","Aerospace","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Aerospace","1.0"]}
+{"Waterjet cutting":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","1.0"]}
+{"336999":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Petrochemical":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Fixtures":["C","Fixture","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Fixture","1.0"]}
+{"Bronze":["C","Bronze","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Bronze","1.0"]}
+{"332999":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Motor Shims":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"Heat Exchanger Gaskets":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","1.0"]}
+{"AccuPeel® Laminated Materials":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","1.0"]}
+{"332994":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"332995":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Gaskets":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Industries":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"Architectural":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","1.0"]}
+{"0017722":["C","DefenseAndMilitary","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DefenseAndMilitary","1.0"]}
+{"Copper":["C","Copper","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Copper","0.93"]}
+{"Nickel":["C","Nickel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Nickel","0.93"]}
+{"Halliburton Energy":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","0.89"]}
+{"Drawing":["C","Drawing","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Drawing","0.89"]}
+{"Commercial Aerospace":["C","Aerospace","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Aerospace","0.89"]}
+{"Lead":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.89"]}
+{"Specialty materials available include:":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.89"]}
+{"Brass":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.89"]}
+{"Piercing":["C","Piercing","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Piercing","0.89"]}
+{"Carbon steel":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.89"]}
+{"Phenolics":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.89"]}
+{"Aluminum":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.89"]}
+{"Blanking":["C","Blanking","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Blanking","0.89"]}
+{"Typical products include:":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","0.89"]}
+{"AccuPeel® laminated shim stock":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.89"]}
+{"Exotic alloys and materials":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.89"]}
+{"Stainless steel":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.89"]}
+{"Practi-shim® color coded plastic":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.89"]}
+{"Steel":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.89"]}
+{"Automated Powder Coating":["C","PowderCoating","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#PowderCoating","0.88"]}
+{"Laminated Materials":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.86"]}
+{"CNC-controlled water jet cutting":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.85"]}
+{"Cloth-Inserted Materials":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.84"]}
+{"Wire Inserted Materials":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.84"]}
+{"Shims":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.82"]}
+{"Precision Machining:":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.82"]}
+{"Sheet Metal Fabrication:":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.82"]}
+{"Services":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.82"]}
+{"Electrical Discharge Machining":["C","ElectroDischargeMachining","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#ElectroDischargeMachining","0.82"]}
+{"Water-only waterjet cutting":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.81"]}
+{"Aluminum Shims":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"316\/316L Stainless Steel Shims":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Stainless Steel Shims":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"410 Stainless Steel Shims":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","0.8"]}
+{"304\/304L Stainless Steel Shims":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Monel Shims":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Steel Shims":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Armstrong Gaskets":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"EPDM Gaskets":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Laminated Polyimide Gaskets":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Laminated Polyimide Shims":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Our shim materials include:":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Carbon Steel Shims":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Nickel Shims":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Gasket Materials":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Inconel Shims":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Custom Control Boxes":["C","Box","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Box","0.8"]}
+{"Shim Materials":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Robotic Welding":["C","Welding","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Welding","0.8"]}
+{"AccuTrex Type 302 stainless steel":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","0.8"]}
+{"CNC Bending":["C","Bending","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Bending","0.8"]}
+{"Coining":["C","Process","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Process","0.8"]}
+{"Delivery Services":["C","Service","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Service","0.8"]}
+{"Light fixtures":["C","Fixture","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Fixture","0.8"]}
+{"Our carbon steel manufacturing capabilities include:":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"302 Stainless Steel Shims":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","0.8"]}
+{"Control Boxes":["C","Box","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Box","0.8"]}
+{"Brass Shims":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Steel shim varieties include:":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Viton Gaskets":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"The industries that AccuTrex serves include:":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","0.8"]}
+{"Custom Frames \/ Shelving":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","0.8"]}
+{"Punching":["C","Process","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Process","0.8"]}
+{"- Other Nonferrous Foundries (except Die-Casting)":["C","DieCasting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DieCasting","0.8"]}
+{"CNC Milling":["C","Milling","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Milling","0.8"]}
+{"F.A.S.T.® Emergency Delivery Service":["C","Service","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Service","0.8"]}
+{"Weldments":["C","Product","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Product","0.8"]}
+{"Custom shim materials include:":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"- Metal Stamping":["C","Stamping","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Stamping","0.8"]}
+{"Red Rubber Gaskets":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"PTFE Gaskets":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"laminated stainless steel in .002\/.003 laminations":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","0.8"]}
+{"- Packing and Gasket Materials":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Plastic Gaskets":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Exotic alloys":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Cork Gaskets":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Wet Painting":["C","Painting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Painting","0.8"]}
+{"316 Stainless Steel Washers":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","0.8"]}
+{"Sign and Banner industry":["C","Industry","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Industry","0.8"]}
+{"Klinger Gaskets":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Neoprene Gaskets":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Our production capabilities for high":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Exotic materials":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Servicing Customers Across The United States":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"AccuTrex Type 410 stainless steel":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","0.8"]}
+{"Aluminum shim grades:":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Notching":["C","Process","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Process","0.8"]}
+{"Hastelloy Shims":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Nitrile Gaskets":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"AccuTrex industries served include:":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.8"]}
+{"Aerospace Waterjet Cutting":["C","WaterjetCuttingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterjetCuttingService","0.79"]}
+{"Architectural Waterjet Cutting":["C","WaterjetCuttingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterjetCuttingService","0.77"]}
+{"Tile Waterjet Cutting":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.76"]}
+{"Steel shim materials include:":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.75"]}
+{"Wire EDM machining":["C","Machining","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Machining","0.73"]}
+{"Laser or Waterjet Cutting Quote":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Glass waterjet cutting applications include:":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Mirrors":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Inlays":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Glass waterjet cutting benefits:":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Unique backsplashes":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Stone Waterjet Cutting":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Shower doors and walls":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Stained glass":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Windows":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Glass Waterjet Cutting":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Ornaments":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"AccuTrex Type 410 stainless steel shims":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","0.73"]}
+{"Tabletop inlay":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Stone Waterjet Cutting Benefits:":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"AccuTrex Type 302 stainless steel shims":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","0.73"]}
+{"Flooring inlay":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Wall inlay":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.73"]}
+{"Improved productivity":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"Eliminates secondary operations\/finishing":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"No tooling charges":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"No heat-affected zones":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"Repeatability":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"Fast setup for production runs":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"Die cutting":["C","DieCasting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#DieCasting","0.72"]}
+{"No burrs":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"Near net shape production":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"Potentially less waste-common wall cutting":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"Accurate tolerances":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"Perfect for prototypes and small runs":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"Uniform cuts":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"Precise CNC cuts to +\/-.005*":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"Multiple-head cutting":["C","WaterJetCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterJetCutting","0.72"]}
+{"Aerospace waterjet cutting benefits:":["C","WaterjetCuttingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterjetCuttingService","0.7"]}
+{"304\/304L stainless":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.7"]}
+{"Gearbox shim materials include:":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.7"]}
+{"Our adjustable shims materials include:":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.7"]}
+{"Practi-Shim® color-coded plastic shim":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.7"]}
+{"Aluminum Alloy (Comp 1)":["C","CastAluminumAlloy","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CastAluminumAlloy","0.7"]}
+{"302 stainless":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.7"]}
+{"410 stainless":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.7"]}
+{"316\/316L stainless":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.7"]}
+{"18\/8 stainless":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.7"]}
+{"Custom Aluminum Control Boxes":["C","Box","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Box","0.7"]}
+{"Soft gasket materials":["C","Material","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#Material","0.7"]}
+{"and":["C","WaterjetCuttingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterjetCuttingService","0.69"]}
+{"Laminated Shim Stock":["C","WaterjetCuttingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterjetCuttingService","0.69"]}
+{"Leather":["C","WaterjetCuttingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterjetCuttingService","0.69"]}
+{"These advantages include:":["C","WaterjetCuttingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterjetCuttingService","0.69"]}
+{"Abrasive Waterjet Cutting Materials:":["C","WaterjetCuttingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterjetCuttingService","0.69"]}
+{"Non":["C","WaterjetCuttingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterjetCuttingService","0.69"]}
+{"Abrasive Waterjet Cutting Benefits:":["C","WaterjetCuttingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterjetCuttingService","0.69"]}
+{"Architectural and decorative waterjet cutting benefits:":["C","WaterjetCuttingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#WaterjetCuttingService","0.68"]}
+{"Abrasive Waterjet Cutting":["C","ManufacturingService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#ManufacturingService","0.68"]}
+{"Sheet Metal Fabrications":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Circle shearing":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Shim Sets":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Custom Enclosures":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Laser cutting":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Passivating":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Nibbling":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Laminated stainless steel (Comp 3)":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","0.67"]}
+{"Custom Frames":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Brackets":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Assembling":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Laminated Shims":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Custom Racks":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Die Building":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Electronic Enclosures":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Flange Gaskets":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Custom Containers":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Prototypes":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Die design and production":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Babbitting":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Capabilities by Facility":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"CNC punching":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"CNC Die Cutting":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Short Run":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Turret Punching":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Custom Shelving":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Some of our additional capabilities include:":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Custom Cabinets":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Spiral Wound Gaskets":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"O-Rings":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"High Production":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Special packaging":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"CNC Laser Cutting":["C","LaserBeamCutting","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#LaserBeamCutting","0.67"]}
+{"AccuTrex Type 304\/304L stainless steel shims":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","0.67"]}
+{"CNC turret punching":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Shearing":["C","SheetMetalService","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#SheetMetalService","0.67"]}
+{"Carbon Steel (Comp 4)":["C","CarbonSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CarbonSteel","0.66"]}
+{"1008 steel shims":["C","CarbonSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CarbonSteel","0.66"]}
+{"A588 steel shims":["C","CarbonSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CarbonSteel","0.66"]}
+{"Stainless Steel (Comp 3)":["C","StainlessSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#StainlessSteel","0.66"]}
+{"A572 steel shims":["C","CarbonSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CarbonSteel","0.66"]}
+{"4130 steel shims":["C","CarbonSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CarbonSteel","0.66"]}
+{"A36 steel shims":["C","CarbonSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CarbonSteel","0.66"]}
+{"Our carbon steel varieties include:":["C","CarbonSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CarbonSteel","0.66"]}
+{"1010 steel shims":["C","CarbonSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CarbonSteel","0.66"]}
+{"1040-1050 steel shims":["C","CarbonSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CarbonSteel","0.66"]}
+{"1075 steel shims":["C","CarbonSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CarbonSteel","0.66"]}
+{"1018 steel shims":["C","CarbonSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CarbonSteel","0.66"]}
+{"1095 steel shims":["C","CarbonSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CarbonSteel","0.66"]}
+{"4140 steel shims":["C","CarbonSteel","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#","http:\/\/www.umbc.edu\/ebiquity\/msdl.owl#CarbonSteel","0.66"]}

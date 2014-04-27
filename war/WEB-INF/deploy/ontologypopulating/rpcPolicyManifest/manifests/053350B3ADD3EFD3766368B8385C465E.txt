@@ -1,0 +1,2 @@
+serviceClass: umbc.ebiquity.kang.ontologypopulating.client.OntologyMatchingService
+path: DC7DFF6B993A00CF048E2A8F774AE20C.gwt.rpc
