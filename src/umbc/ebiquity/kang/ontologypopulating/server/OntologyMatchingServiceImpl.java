@@ -23,6 +23,8 @@ import umbc.ebiquity.kang.ontologyinitializator.repository.factories.Interpretat
 import umbc.ebiquity.kang.ontologyinitializator.repository.factories.ManufacturingLexicalMappingRepositoryFactory;
 import umbc.ebiquity.kang.ontologyinitializator.repository.factories.OntologyRepositoryFactory;
 import umbc.ebiquity.kang.ontologyinitializator.repository.factories.TripleRepositoryFactory;
+import umbc.ebiquity.kang.ontologyinitializator.repository.impl.EvaluationCorpus;
+import umbc.ebiquity.kang.ontologyinitializator.repository.impl.EvaluationCorpusRecordsAccessor;
 import umbc.ebiquity.kang.ontologyinitializator.repository.impl.MappingDataGateway;
 import umbc.ebiquity.kang.ontologyinitializator.repository.impl.ProprietoryClassifiedInstancesRepository;
 import umbc.ebiquity.kang.ontologyinitializator.repository.impl.ProprietoryClassifiedInstancesRepository.ClassifiedInstancesRepositoryType;
@@ -30,6 +32,8 @@ import umbc.ebiquity.kang.ontologyinitializator.repository.interfaces.IClassific
 import umbc.ebiquity.kang.ontologyinitializator.repository.interfaces.IClassifiedInstanceBasicRecord;
 import umbc.ebiquity.kang.ontologyinitializator.repository.interfaces.IClassifiedInstanceDetailRecord;
 import umbc.ebiquity.kang.ontologyinitializator.repository.interfaces.IConcept2OntClassMapping;
+import umbc.ebiquity.kang.ontologyinitializator.repository.interfaces.IEvaluationCorpusRecordsAccessor;
+import umbc.ebiquity.kang.ontologyinitializator.repository.interfaces.IEvaluationCorpusRecordsReader;
 import umbc.ebiquity.kang.ontologyinitializator.repository.interfaces.IManufacturingLexicalMappingRecordsReader;
 import umbc.ebiquity.kang.ontologyinitializator.repository.interfaces.IManufacturingLexicalMappingRepository;
 import umbc.ebiquity.kang.ontologyinitializator.repository.interfaces.IMatchedOntProperty;
@@ -131,8 +135,10 @@ public class OntologyMatchingServiceImpl extends RemoteServiceServlet implements
 		 */
 		System.out.println();
 		System.out.println("############### Get Detail Mapping Info ######################");
-		String webPageUrl3 = "http://www.numericalconcepts.com/";
-		SimpleMappingDetailInfo simpleMappingDetailInfo = kk.getMappingDetailInfo(webPageUrl3);
+//		String webPageUrl3 = "http://www.numericalconcepts.com/";
+		String webPageUrl4 = "http://www.kilgoremfg.com";
+		SimpleMappingDetailInfo simpleMappingDetailInfo = kk.getMappingDetailInfo(webPageUrl4);
+		
 		
 		Map<Entity, Collection<SimpleClassifiedInstanceInfo>> ontoClass2InstancesMap = simpleMappingDetailInfo.getOntoClass2InstancesMap();
 		for(Entity ontoClass : ontoClass2InstancesMap.keySet()){
@@ -289,7 +295,7 @@ public class OntologyMatchingServiceImpl extends RemoteServiceServlet implements
 			IClassifiedInstancesRepository _ProperietoryClassifiedInstancesRepository = ClassifiedInstancesRepositoryFactory
 			                .createProprietoryClassifiedInstancesRepository(webPageURL, 
 			                				ontologyRepository,
-			                                true, false, false);
+			                                true, true, false);
 
 
 			SimpleTripleStore tripleStore = new SimpleTripleStore();
@@ -380,12 +386,20 @@ public class OntologyMatchingServiceImpl extends RemoteServiceServlet implements
 			IClassifiedInstancesRepository _ProperietoryClassifiedInstancesRepository = ClassifiedInstancesRepositoryFactory
 			                .createProprietoryClassifiedInstancesRepository(webPageURL, 
 			                				ontologyRepository,
-			                                true, false, false);
+			                                true, true, false);
+			
+			String evaluationCorpusFullName = "/Users/yankang/Desktop/standards/" + repositoryName;
+			IEvaluationCorpusRecordsAccessor _evaluationCorpusRecordsAccessor = new EvaluationCorpusRecordsAccessor();
+			IEvaluationCorpusRecordsReader evaluationCorpusRecordsReader = new EvaluationCorpus(evaluationCorpusFullName, ontologyRepository,
+					_evaluationCorpusRecordsAccessor);
+			((EvaluationCorpus) evaluationCorpusRecordsReader).loadRepository();
 			
 			Collection<SimpleClassifiedInstanceInfo> allClassifiedInstanceInfoCollection = new ArrayList<SimpleClassifiedInstanceInfo>();
 			Map<Entity, Collection<SimpleClassifiedInstanceInfo>> ontoClass2InstancesMap = new LinkedHashMap<Entity, Collection<SimpleClassifiedInstanceInfo>>();
 //			MappingDetailInfo mappingDetailInfo = mappingResult.getMappingDetailInfo();
 			MappingDetailInfo mappingDetailInfo = _ProperietoryClassifiedInstancesRepository.getMappingDetailInfo();
+			
+			
 			
 			Collection<IClassifiedInstanceDetailRecord> instanceDetailInfoCollection = mappingDetailInfo.getClassifiedInstanceDetailRecords();
 			for (IClassifiedInstanceDetailRecord classifiedInstance: instanceDetailInfoCollection) { 
@@ -397,6 +411,10 @@ public class OntologyMatchingServiceImpl extends RemoteServiceServlet implements
 				
 				System.out.println(instanceName + " of type: " + className + " with similarity: " + similarity);
 
+				if(evaluationCorpusRecordsReader.containsInstance(instanceName)){
+					continue;
+				}
+				
 				Entity instanceEntity = new Entity(instanceName);
 				Entity mappedOntoClassEntity = new Entity(className, classURI);
 				SimpleClassifiedInstanceInfo simpleClassifiedInstanceInfo = new SimpleClassifiedInstanceInfo(instanceEntity, mappedOntoClassEntity, similarity);
@@ -504,6 +522,13 @@ public class OntologyMatchingServiceImpl extends RemoteServiceServlet implements
 			IOntologyRepository ontologyRepository = OntologyRepositoryFactory.createOntologyRepository();
 			IClassificationCorrectionRepository classificationCorrectionRepository = InterpretationCorrectionRepositoryFactory.createProprietaryClassificationCorrectionRepository(repositoryName);
 			IManufacturingLexicalMappingRepository MLRepository = ManufacturingLexicalMappingRepositoryFactory.createProprietaryManufacturingLexiconRepository(repositoryName);
+			
+			String evaluationCorpusFullName = "/Users/yankang/Desktop/standards/" + repositoryName;
+			IEvaluationCorpusRecordsAccessor _evaluationCorpusRecordsAccessor = new EvaluationCorpusRecordsAccessor();
+			IEvaluationCorpusRecordsReader evaluationCorpusRecordsReader = new EvaluationCorpus(evaluationCorpusFullName, ontologyRepository,
+					_evaluationCorpusRecordsAccessor);
+			((EvaluationCorpus) evaluationCorpusRecordsReader).loadRepository();
+			
 			IClassifiedInstancesRepository properietoryClassifiedInstancesRepository = new ProprietoryClassifiedInstancesRepository(
 			                FileUtility.convertURL2FileName(webPageURL), ClassifiedInstancesRepositoryType.All,
 			                ontologyRepository, MLRepository);
@@ -572,7 +597,7 @@ public class OntologyMatchingServiceImpl extends RemoteServiceServlet implements
 			System.out.println("### number of classified instances: " + numberOfClassifiedInstance);
 			System.out.println("### number of updated instances: " + numberOfUpdatedInstance);
 			gateWay.updateMappingInfo(updatedInstanceRecords);
-			((ProprietoryClassifiedInstancesRepository) properietoryClassifiedInstancesRepository).saveHumanReadableFile("/Users/yankang/Desktop/standards/");
+			((ProprietoryClassifiedInstancesRepository) properietoryClassifiedInstancesRepository).saveHumanReadableFile("/Users/yankang/Desktop/standards_addition/", evaluationCorpusRecordsReader.getInstanceSet());
 			return gateWay.saveRepository();
 		
 		} catch (MalformedURLException e) {
